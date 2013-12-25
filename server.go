@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 type JunioQueue struct {
-	Project string
-	Name string
+	Project   string
+	Name      string
 	NextIndex int
 }
 
